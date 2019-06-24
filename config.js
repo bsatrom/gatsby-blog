@@ -24,7 +24,7 @@ module.exports = {
   ],
   author: {
     name: 'Brandon Satrom',
-    photo: '/bsatrom-headshot.png',
+    photo: '/photo.png',
     bio: 'I build things for the digital and physical worlds.',
     contacts: {
       email: 'brandon@particle.io',
