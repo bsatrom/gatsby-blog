@@ -15,10 +15,7 @@ tags:
 description: "Weekly stream for May 20th, 2019. IoT Show & Tell, and continuing work on the Google Coral and Particle Powered #EmotionMesh project."
 ---
 
-# May 20, 2019 Stream
-
-- Time: 12-3 pm Central
-- VOD
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hoMLccDlCQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What we did
 

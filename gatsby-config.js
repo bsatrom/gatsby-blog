@@ -102,10 +102,7 @@ module.exports = {
             resolve: 'gatsby-remark-images',
             options: { maxWidth: 960 }
           },
-          {
-            resolve: 'gatsby-remark-responsive-iframe',
-            options: { wrapperStyle: 'margin-bottom: 1.0725rem' }
-          },
+          'gatsby-remark-responsive-iframe',
           'gatsby-remark-autolink-headers',
           'gatsby-remark-prismjs',
           'gatsby-remark-copy-linked-files',
@@ -171,7 +168,7 @@ module.exports = {
         background_color: '#FFF',
         theme_color: '#F7A046',
         display: 'standalone',
-        icon: 'static/photo.npg'
+        icon: 'static/photo.png'
       },
     },
     'gatsby-plugin-offline',

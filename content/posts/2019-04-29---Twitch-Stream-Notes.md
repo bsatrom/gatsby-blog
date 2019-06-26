@@ -13,8 +13,7 @@ tags:
 description: "Stream for Monday, April 29th. Continuing the Wall of Things and Twitchbot project."
 ---
 
-- Time: 12-3 pm Central
-- VOD 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xPCu363LiaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What we did
 

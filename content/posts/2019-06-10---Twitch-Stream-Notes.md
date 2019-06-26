@@ -15,8 +15,7 @@ tags:
 description: "Weekly stream for June 10rd, 2019. Continuing work on the Google Coral and Particle Powered #EmotionMesh project."
 ---
 
-- Time: 12-3 pm Central
-- VOD 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oUiNRxAKPmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What we did
 

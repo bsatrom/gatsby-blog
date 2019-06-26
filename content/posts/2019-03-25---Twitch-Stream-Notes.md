@@ -14,8 +14,7 @@ tags:
 description: "Stream for Monday, March 25th, 2019. Wrapping up the Brew Buddy project and starting on the Wall of Things project."
 ---
 
-- Time: 12-2 pm Central
-- VOD: [https://www.twitch.tv/videos/401046077](https://www.twitch.tv/videos/401046077)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlnMwSmlD-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What we did
 

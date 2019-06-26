@@ -15,9 +15,6 @@ tags:
 description: "Stream for Thursday, March 28th. Playing with the Google Coral and continuing the Wall of Things project."
 ---
 
-- Time: 2-4 pm Central
-- VOD [https://www.twitch.tv/videos/402592930](https://www.twitch.tv/videos/402592930)
-
 🚠 **Going on a ski trip with the family from March 29-April 5. No regular streams next week!** ⛷
 
 ## What we did

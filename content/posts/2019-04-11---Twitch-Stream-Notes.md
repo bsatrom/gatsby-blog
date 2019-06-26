@@ -13,8 +13,7 @@ tags:
 description: "Stream for Thursday, April 11th. Continuing the Wall of Things and Twitchbot project."
 ---
 
-- Time: 2-4 pm Central
-- VOD [https://www.twitch.tv/videos/409558641](https://www.twitch.tv/videos/409558641)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aX3S_3AtNJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What we did
 

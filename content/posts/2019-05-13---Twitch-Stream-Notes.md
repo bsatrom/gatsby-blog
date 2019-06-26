@@ -16,8 +16,7 @@ tags:
 description: "Stream for Monday, May 13th. Continuing the #EmotionMesh Edge ML and IoT Project with Particle and the Google Coral."
 ---
 
-- Time: 12-3 pm Central
-- VOD [https://www.twitch.tv/videos/424359576](https://www.twitch.tv/videos/424359576)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/duk_ol9N32o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What we did
 

@@ -16,8 +16,7 @@ tags:
 description: "Stream for Thursday, May 09th. Starting an Edge ML and IoT Project with Particle and the Google Coral."
 ---
 
-- Time: 2-4 pm Central
-- VOD [https://www.twitch.tv/videos/422595599](https://www.twitch.tv/videos/422595599)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fh8EouTFEpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What we did
 

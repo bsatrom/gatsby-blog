@@ -3,7 +3,7 @@ title: Twitch Stream Notes - May 28, 2019
 date: "2019-05-28T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "/posts/twitch-stream-03-28-2019/"
+slug: "/posts/twitch-stream-05-28-2019/"
 category: "Twitch Streams"
 tags:
   - "Twitch"
@@ -15,8 +15,7 @@ tags:
 description: "Weekly stream for May 28th, 2019. IoT Show & Tell, and continuing work on the Google Coral and Particle Powered #EmotionMesh project."
 ---
 
-- Time: 4-7 pm Central
-- VOD [https://www.twitch.tv/videos/431249871](https://www.twitch.tv/videos/431249871)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fmkx2F1mkSo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What we did
 

@@ -15,8 +15,7 @@ tags:
 description: "Stream for Monday, April 18th. Exploring the NVidia Jetson Nano Edge ML device; Continuing the Wall of Things and Twitchbot project."
 ---
 
-- Time: 2-4 pm Central
-- VOD [https://www.twitch.tv/videos/412975252](https://www.twitch.tv/videos/412975252)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IIeMTDbbZcI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What we did
 
