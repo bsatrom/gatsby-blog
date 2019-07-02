@@ -19,27 +19,29 @@ description: "Weekly stream for July 1st, 2019. Continuing work on the Google Co
 
 ## What we did
 
-### IoT Show and Tell
+### IoT Show and Tell (Starts at [7:03](https://youtu.be/2OoBwvj6884?t=423))
 
-- AdaBox #012!
+- [AdaBox #012!!!!](https://learn.adafruit.com/adabox012/introduction) - 😍🔥 PyGamer!
 - Particle Boron SOM Eval Board
-- Byte Barista MicroPython Badge
+- [Byte Barista MicroPython Badge](https://bytebarista.com/)
 - Various BLE Sensors (Temp, OBD-II, Generic Tag)
+- [Back the GiantBoard from our friend, @Groguard!](https://www.crowdsupply.com/groboards/giant-board). He's halfway to his goal of creating a Linux-capable SBC in the Feather form factor!
 
-### Emotion Mesh! Edge ML & IoT Project
+## Emotion Mesh! Edge ML & IoT Project
 
-#### Recap of NDC Oslo and EmotionMesh Demo
+#### Recap of NDC Oslo and EmotionMesh Demo (Starts at [26:37](https://youtu.be/2OoBwvj6884?t=1597))
 
-- NDC Oslo Recap. Videos should be posted in the next week!
-- ML & IoT Talk and Demos Recap
+- [NDC Oslo](https://ndcoslo.com) Recap. Videos should be posted in the next week!
+- ML & IoT Talk and Demos Recap - Went well, all the demos worked!
 - Live #EmotionMesh Demo
 
-#### This time
+#### This time (Starts at [36:57](https://youtu.be/2OoBwvj6884?t=2217))
             
 - Let's add some BLE goodness to the EmotionMesh network!
 - Add the Stats-Viewer Project and configure for my device.
 - Advertise the current network state via BLE from the EmotionMesh controller
 - Read the current network state via BLE on another device and display the state on a TFT.
+
 ## What we learned
 
 - BLE is great when it works, but Brandon needs to figure out how to pass strings in byte arrays!

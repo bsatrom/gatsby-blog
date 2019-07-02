@@ -18,8 +18,8 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Talks & Events',
+      path: '/pages/talks'
     }
   ],
   author: {
