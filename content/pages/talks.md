@@ -7,6 +7,7 @@ Here are some notable presentations I've delivered recently, and events I'll be 
 
 ## Past Talks
 
+- [ML and the IoT: Living on the Edge](https://www.youtube.com/watch?v=5SYjR2D4p0c&list=PL03Lrmd9CiGe9QtFC8LRRqknzpKgcrWpe&index=134) (NDC Oslo, June 2019)
 - [The IoT is dead. Long live the Internet!](https://www.youtube.com/watch?v=raENZvlze40) (ISTA Conference, Nov. 2018)
 - [Bending the IoT to your will with JavaScript](https://www.youtube.com/watch?v=aeLsgyWbjTc) (JSMobileConf, Oct. 2018)
 - [Killing the Cloud and other ways to design for a world of one trillion devices](https://www.youtube.com/watch?v=1UlR5WkNSkA) (DevReach, Nov. 2017)
